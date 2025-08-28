@@ -20,4 +20,4 @@ _Case study on cutaneous leishmaniasis, to empirically demonstrate how the integ
 
 1. Download or clone the repository.
 2. Load the dataset from the [Data](./Data) folder.
-3. Run the [scripts](./Code) to reproduce the analysis and figure
+3. Run the [scripts](./Code) to reproduce the analysis and figure.
